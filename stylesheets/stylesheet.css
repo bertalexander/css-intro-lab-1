@@ -9,6 +9,7 @@ body {
   line-height: 1.5;
   color: #606c71;
   text-align: center;
+  background-color: #f30;
 }
 
 .container {
@@ -19,11 +20,20 @@ body {
   margin: 0 auto;
   padding: 1rem 2rem;
   text-align: left;
-  background-color: #eee;
+  background-color: #3f0;
 }
 
 section {
     margin: 3em 0;
+}
+
+div footer{
+  background-color: blue;
+}
+
+}
+.container .page-header   {
+  background-color: yellow;
 }
 
 a {
@@ -34,7 +44,7 @@ a {
 
 .button {
     border: 2px solid #ccc;
-    background-color: #999;
+    background-color: orange;
     color: #666;
     padding: 6px 13px;
     border-radius: 11px;
